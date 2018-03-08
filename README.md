@@ -1,5 +1,5 @@
 # jmoney
 
-<img src="https://cloud.githubusercontent.com/assets/yourgif.gif" width="400" height="790">
+<img src="http://mybankersonline.com/uploads/articles/foreign-currency-account.jpg" width="888" height="175">
 
 Java library to handle currencies, amounts, and string convertions
